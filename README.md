@@ -21,5 +21,5 @@ javascript:(function()%7Bfunction%20callback()%7BfillMonth()%7Dvar%20s%3Ddocumen
 
 ## Demo
 
-https://user-images.githubusercontent.com/78782036/177003404-29e2f9c3-0802-4355-9b41-3e0c5a7f4c63.mp4
-
+<video src="https://user-images.githubusercontent.com/78782036/177003404-29e2f9c3-0802-4355-9b41-3e0c5a7f4c63.mp4" data-canonical-src="https://user-images.githubusercontent.com/78782036/177003404-29e2f9c3-0802-4355-9b41-3e0c5a7f4c63.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px;">
+  </video>
